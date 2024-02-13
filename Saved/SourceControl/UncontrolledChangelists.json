@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/NewMap.umap",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/UI/HealthBar.uasset",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/Blueprints/HealthPickUp.uasset",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable.uasset",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/HealthPack.uasset",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/Maps/BlockGameMap.umap",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/UI/GameOver.uasset",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/Blueprints/BP_Pursuer.uasset",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/Blueprints/Pursuer_AIController.uasset",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/Blueprints/EAIstate.uasset",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP1.uasset",
+				"/Users/steven/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/HealhPickUp.uasset"
+			]
+		}
+	]
+}
